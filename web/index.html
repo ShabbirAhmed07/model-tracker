@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142b29">
+  <meta name="description" content="AI Insta's independent feed of AI model catalog observations.">
+  <title>AI Insta | AI model tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="AI Insta home"><img class="brand-logo" src="./ai-insta-logo.png" alt=""><span>AI INSTA<small>INDEPENDENT MODEL TRACKER</small></span></a>
+    <div class="topbar-right"><span class="live-dot"></span><span id="header-status">Connecting to feed</span><a href="https://x.com/AI_Insta07" target="_blank" rel="noopener noreferrer">@AI_Insta07 <span aria-hidden="true">↗</span></a></div>
+  </header>
+  <main class="layout">
+    <aside class="sidebar" aria-label="Feed navigation">
+      <div class="sidebar-label">WORKSPACE <span>01</span></div>
+      <div class="sidebar-current"><span class="grid-icon" aria-hidden="true">▦</span> Model feed <span class="side-count" id="side-count">—</span></div>
+      <div class="side-section"><div class="sidebar-label">MONITORING</div><div class="source-summary"><span class="side-dot"></span><div><strong>Public sources</strong><small id="side-health">Waiting for scan</small></div></div></div>
+      <div class="side-note"><div class="note-icon">i</div><p>Catalog sightings are signals, not proof of a launch or availability.</p></div>
+      <div class="sidebar-footer">AI INSTA <span> / 001</span><br>AI, INSTANTLY</div>
+    </aside>
+    <div class="workspace">
+      <section class="heading"><div><div class="eyebrow"><span></span> THE MODEL LANDSCAPE <span class="eyebrow-slash">/</span> LIVE MONITOR</div><h1>Model feed<span>.</span></h1><p>Follow the signals shaping the AI landscape.</p></div><div class="heading-meta"><span>LAST SCAN</span><strong id="last-scan">Awaiting data</strong><small>Times shown in your timezone</small></div></section>
+      <section class="metrics" aria-label="Feed overview">
+        <div class="metric"><span>OBSERVATIONS</span><strong id="total-count">—</strong><small>retained in feed</small></div>
+        <div class="metric"><span>NEW IDENTIFIERS</span><strong id="new-count">—</strong><small>since baseline</small></div>
+        <div class="metric"><span>REGISTRY UPDATES</span><strong id="updated-count">—</strong><small>metadata changes</small></div>
+        <div class="metric"><span>SOURCES HEALTHY</span><strong id="healthy-count">—</strong><small>last scan status</small></div>
+      </section>
+      <section class="feed-layout"><div class="feed-column">
+        <div class="section-heading"><div><div class="eyebrow muted">INTELLIGENCE STREAM <span class="eyebrow-slash">/</span> 01</div><h2>Latest observations</h2></div><button class="text-action" id="mark-read" type="button">Mark all read <span aria-hidden="true">✓</span></button></div>
+        <div class="toolbar"><div class="filters" role="group" aria-label="Filter observations"><button class="filter active" data-filter="all" aria-pressed="true">All</button><button class="filter" data-filter="new" aria-pressed="false">New</button><button class="filter" data-filter="updated" aria-pressed="false">Updates</button><button class="filter" data-filter="listing" aria-pressed="false">Listings</button><button class="filter" data-filter="open" aria-pressed="false">Open weights</button><button class="filter" data-filter="unread" aria-pressed="false">Unread</button></div><label class="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search models or providers</span><input id="search" type="search" placeholder="Search models..."></label></div>
+        <div class="feed-meta"><span id="result-count">LOADING FEED</span><span>MOST RECENT FIRST</span></div>
+        <div id="feed" class="feed" aria-live="polite"><div class="empty">Loading observations...</div></div>
+        <button id="load-more" class="load-more" hidden>Load more observations <span>↓</span></button>
+      </div><aside class="insights" aria-label="Source status"><div class="insights-top"><div class="eyebrow muted">SYSTEM STATUS <span class="eyebrow-slash">/</span> 02</div><h2>Source health</h2><p>Latest collection attempts.</p></div><div id="source-health" class="source-health"></div><div class="method"><span class="method-label">A NOTE ON EVIDENCE</span><h3>Signals, not predictions.</h3><p>Each entry links to its public source. A registry entry or repository does not establish a model's availability, license, or launch.</p><a href="https://models.dev" target="_blank" rel="noopener noreferrer">Explore models.dev ↗</a></div></aside></section>
+      <footer><span>AI INSTA <b> / </b> INDEPENDENT AI OBSERVATIONS</span><span>@AI_INSTA07</span></footer>
+    </div>
+  </main>
+  <dialog id="share-dialog" aria-labelledby="share-title">
+    <div class="share-heading"><div><span class="share-eyebrow">AI INSTA / SHARE CARD</span><h2 id="share-title">Prepare your post</h2></div><button id="share-close" class="close-dialog" type="button" aria-label="Close share preview" title="Close">×</button></div>
+    <canvas id="share-canvas" width="1200" height="675" role="img" aria-label="AI Insta branded observation card"></canvas>
+    <p class="share-hint">Download the image, then attach it to your X draft before posting.</p>
+    <div class="share-actions"><button id="download-card" class="download-card" type="button">Download image</button><a id="open-x" class="open-x" href="https://x.com/AI_Insta07" target="_blank" rel="noopener noreferrer">Open X draft ↗</a></div>
+    <p id="share-status" class="share-status" role="status"></p>
+  </dialog>
+</body>
+</html>
