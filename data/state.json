@@ -10190,8 +10190,8 @@
         "poolside/poolside/laguna-xs-2.1": "b972b7f650960d47d109b55eaecf157f52d1fd5af4d491a63bf2c60838ea1aa5",
         "poolside/poolside/laguna-m.1": "0f764d45a2354ee0bc47ba2c617e643e38dec28d26c41db0e6971a3a74afa232"
       },
-      "lastAttempt": "2026-11-24T10:06:51.603Z",
-      "lastSuccess": "2026-11-24T10:06:51.603Z",
+      "lastAttempt": "2026-11-24T10:08:53.215Z",
+      "lastSuccess": "2026-11-24T10:08:53.215Z",
       "error": null
     },
     "huggingface:deepseek-ai": {
@@ -10297,8 +10297,8 @@
         "deepseek-ai/deepseek-llm-7b-base": "d384b36051288b3fa6476af88c9026217c1e5ff388c88ab3ea47803b78813d7d",
         "deepseek-ai/deepseek-coder-33b-instruct": "b2394bf25af53669dcf2fa1814da440fe8e280f55ea5f5be4e12eb030138e67a"
       },
-      "lastAttempt": "2026-11-24T10:06:52.028Z",
-      "lastSuccess": "2026-11-24T10:06:52.028Z",
+      "lastAttempt": "2026-11-24T10:08:53.566Z",
+      "lastSuccess": "2026-11-24T10:08:53.566Z",
       "error": null
     },
     "huggingface:Qwen": {
@@ -10404,8 +10404,8 @@
         "Qwen/Qwen3-VL-32B-Thinking": "b353bf52a83b63e1bc29a2d8d3424229682469e454ba1226e2493d3d5316e485",
         "Qwen/Qwen3-VL-32B-Instruct": "93a7ac9dbebb6a8f08c402515197232a2d738dce3e9ff2ea033fe679a2d13237"
       },
-      "lastAttempt": "2026-11-24T10:06:52.163Z",
-      "lastSuccess": "2026-11-24T10:06:52.163Z",
+      "lastAttempt": "2026-11-24T10:08:53.616Z",
+      "lastSuccess": "2026-11-24T10:08:53.616Z",
       "error": null
     },
     "huggingface:meta-llama": {
@@ -10481,8 +10481,8 @@
         "meta-llama/Llama-2-7b-chat": "c7ebf46c390f9d4e3abfbc91bd7f8e8c8eac907109ef98f7eb2534d6a35f0567",
         "meta-llama/Llama-2-7b": "86e1df82c191efebdb09d03b016bffbc348e7bf5cb5fee609d223937e80b464e"
       },
-      "lastAttempt": "2026-11-24T10:06:52.244Z",
-      "lastSuccess": "2026-11-24T10:06:52.244Z",
+      "lastAttempt": "2026-11-24T10:08:53.661Z",
+      "lastSuccess": "2026-11-24T10:08:53.661Z",
       "error": null
     },
     "huggingface:mistralai": {
@@ -10571,8 +10571,8 @@
         "mistralai/Mistral-7B-Instruct-v0.1": "b5d7d53ba71916a8f455a8920e44e1b15157d608ef40be52d749af738964c150",
         "mistralai/Mistral-7B-v0.1": "0a98a97181f20542d9bf8b67e453c1e16be3e82b349d05af26d23dc6029d7a0f"
       },
-      "lastAttempt": "2026-11-24T10:06:52.322Z",
-      "lastSuccess": "2026-11-24T10:06:52.322Z",
+      "lastAttempt": "2026-11-24T10:08:53.699Z",
+      "lastSuccess": "2026-11-24T10:08:53.699Z",
       "error": null
     },
     "huggingface:google": {
@@ -10678,8 +10678,8 @@
         "google/medsiglip-448": "13aecf627ef1e51e86f7e729a12ab65da3e6d5267411405faecf338d27b36e8c",
         "google/medgemma-27b-it": "8d60ab66c36b178e7b6a36fc92d7b844e880c30ae8c55ef5434b0c3461b07705"
       },
-      "lastAttempt": "2026-11-24T10:06:52.410Z",
-      "lastSuccess": "2026-11-24T10:06:52.410Z",
+      "lastAttempt": "2026-11-24T10:08:53.741Z",
+      "lastSuccess": "2026-11-24T10:08:53.741Z",
       "error": null
     },
     "huggingface:microsoft": {
@@ -10785,8 +10785,8 @@
         "microsoft/Dayhoff-170M-GR-1000": "1ac27725c82a0d2fdf19f235dfcd9da44d0949e6d6079683f680216ac3ffdec7",
         "microsoft/Dayhoff-170M-UR90-1000": "069663e8f176a9131e329df7b6f670ef5f2e90ded95d676ed1e0c5971b85c616"
       },
-      "lastAttempt": "2026-11-24T10:06:52.495Z",
-      "lastSuccess": "2026-11-24T10:06:52.495Z",
+      "lastAttempt": "2026-11-24T10:08:53.784Z",
+      "lastSuccess": "2026-11-24T10:08:53.784Z",
       "error": null
     },
     "huggingface:nvidia": {
@@ -10892,8 +10892,8 @@
         "nvidia/RT-DETR-Hand-Detector-v1": "0c7d7c7d6d5ea8fc49250cdd2b882f62910e4c507c5d7518043b7cd839ae608b",
         "nvidia/c-foundationstereo-s": "e4620df7d63b4a677d6671df79ed0f407498a74a47ffb99dac9a485616043104"
       },
-      "lastAttempt": "2026-11-24T10:06:52.578Z",
-      "lastSuccess": "2026-11-24T10:06:52.578Z",
+      "lastAttempt": "2026-11-24T10:08:53.829Z",
+      "lastSuccess": "2026-11-24T10:08:53.829Z",
       "error": null
     },
     "huggingface:openai": {
@@ -10938,8 +10938,8 @@
         "openai/clip-vit-base-patch32": "95bad2bc71104857d541265fe25126289402b9959c745686224d3f75038e06ba",
         "openai/clip-vit-base-patch16": "ff56f0e0bf4408595e0fb6f59be697315ca766ae09757d19e5e9b59edb3ace97"
       },
-      "lastAttempt": "2026-11-24T10:06:52.663Z",
-      "lastSuccess": "2026-11-24T10:06:52.663Z",
+      "lastAttempt": "2026-11-24T10:08:53.872Z",
+      "lastSuccess": "2026-11-24T10:08:53.872Z",
       "error": null
     },
     "huggingface:allenai": {
@@ -11045,8 +11045,8 @@
         "allenai/intent-aware-lfqa-llama3-8b-baseline": "1193301e96b8e3135027660699705b261c8d8f122b2acd2a7150469d726053fd",
         "allenai/intent-aware-lfqa-llama3-8b-multiview": "206f2c444aba8506e17e5b862342c321a1405065ba31e539be08e13a4f13b795"
       },
-      "lastAttempt": "2026-11-24T10:06:52.737Z",
-      "lastSuccess": "2026-11-24T10:06:52.737Z",
+      "lastAttempt": "2026-11-24T10:08:53.906Z",
+      "lastSuccess": "2026-11-24T10:08:53.906Z",
       "error": null
     },
     "huggingface:MiniMaxAI": {
@@ -11076,8 +11076,8 @@
         "MiniMaxAI/MiniMax-VL-01": "3ab1204ee974808df282a8899aac834a98e62ea8f58c4aefeffb5138de00c2b2",
         "MiniMaxAI/MiniMax-Text-01": "cc43306d91ca2746360ce99ceed49828e8bd57c2d8b939cb7c7928da91c2e014"
       },
-      "lastAttempt": "2026-11-24T10:06:52.820Z",
-      "lastSuccess": "2026-11-24T10:06:52.820Z",
+      "lastAttempt": "2026-11-24T10:08:53.947Z",
+      "lastSuccess": "2026-11-24T10:08:53.947Z",
       "error": null
     },
     "huggingface:moonshotai": {
@@ -11103,8 +11103,8 @@
         "moonshotai/Moonlight-16B-A3B-Instruct": "e28889073bcc17d3cc5ed7ea70ca8a204acba70441f4315738f0cfa1c613d9b2",
         "moonshotai/Moonlight-16B-A3B": "30893c2b3de2873c2e035e641ff1f5bcfd958fc6d975ef5a8178b2704eb0afae"
       },
-      "lastAttempt": "2026-11-24T10:06:52.891Z",
-      "lastSuccess": "2026-11-24T10:06:52.891Z",
+      "lastAttempt": "2026-11-24T10:08:53.977Z",
+      "lastSuccess": "2026-11-24T10:08:53.977Z",
       "error": null
     },
     "huggingface:zai-org": {
@@ -11210,8 +11210,8 @@
         "zai-org/MSAGPT": "bad104486efee2a8e77004e0ea8df46fe85060811ffe034a2c0a48df0a082fae",
         "zai-org/cogvlm2-llama3-chat-19B-tgi": "fcec6f7f858b858387f24914cc8918b230de10b81229cdc8c2f9401752e7c5de"
       },
-      "lastAttempt": "2026-11-24T10:06:52.963Z",
-      "lastSuccess": "2026-11-24T10:06:52.963Z",
+      "lastAttempt": "2026-11-24T10:08:54.022Z",
+      "lastSuccess": "2026-11-24T10:08:54.022Z",
       "error": null
     },
     "huggingface:tencent": {
@@ -11317,8 +11317,8 @@
         "tencent/Hy-MT2-30B-A3B-GGUF": "e95e73b564b5e6bf138d08229bbcf5e39a7519724708cb052ab7d3da82f961fb",
         "tencent/Hy-Embodied-VLM-1.0": "abcfa7990e6caec808a45eb4ac813e69700ab9c385a5c0639c30b82c23392fe2"
       },
-      "lastAttempt": "2026-11-24T10:06:53.045Z",
-      "lastSuccess": "2026-11-24T10:06:53.045Z",
+      "lastAttempt": "2026-11-24T10:08:54.064Z",
+      "lastSuccess": "2026-11-24T10:08:54.064Z",
       "error": null
     }
   },

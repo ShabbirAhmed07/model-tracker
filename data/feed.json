@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-24T10:06:53.125Z",
+  "generatedAt": "2026-11-24T10:08:54.104Z",
   "sources": {
     "models.dev": {
-      "lastAttempt": "2026-11-24T10:06:51.603Z",
-      "lastSuccess": "2026-11-24T10:06:51.603Z",
+      "lastAttempt": "2026-11-24T10:08:53.215Z",
+      "lastSuccess": "2026-11-24T10:08:53.215Z",
       "error": null
     },
     "huggingface:deepseek-ai": {
-      "lastAttempt": "2026-11-24T10:06:52.028Z",
-      "lastSuccess": "2026-11-24T10:06:52.028Z",
+      "lastAttempt": "2026-11-24T10:08:53.566Z",
+      "lastSuccess": "2026-11-24T10:08:53.566Z",
       "error": null
     },
     "huggingface:Qwen": {
-      "lastAttempt": "2026-11-24T10:06:52.163Z",
-      "lastSuccess": "2026-11-24T10:06:52.163Z",
+      "lastAttempt": "2026-11-24T10:08:53.616Z",
+      "lastSuccess": "2026-11-24T10:08:53.616Z",
       "error": null
     },
     "huggingface:meta-llama": {
-      "lastAttempt": "2026-11-24T10:06:52.244Z",
-      "lastSuccess": "2026-11-24T10:06:52.244Z",
+      "lastAttempt": "2026-11-24T10:08:53.661Z",
+      "lastSuccess": "2026-11-24T10:08:53.661Z",
       "error": null
     },
     "huggingface:mistralai": {
-      "lastAttempt": "2026-11-24T10:06:52.322Z",
-      "lastSuccess": "2026-11-24T10:06:52.322Z",
+      "lastAttempt": "2026-11-24T10:08:53.699Z",
+      "lastSuccess": "2026-11-24T10:08:53.699Z",
       "error": null
     },
     "huggingface:google": {
-      "lastAttempt": "2026-11-24T10:06:52.410Z",
-      "lastSuccess": "2026-11-24T10:06:52.410Z",
+      "lastAttempt": "2026-11-24T10:08:53.741Z",
+      "lastSuccess": "2026-11-24T10:08:53.741Z",
       "error": null
     },
     "huggingface:microsoft": {
-      "lastAttempt": "2026-11-24T10:06:52.495Z",
-      "lastSuccess": "2026-11-24T10:06:52.495Z",
+      "lastAttempt": "2026-11-24T10:08:53.784Z",
+      "lastSuccess": "2026-11-24T10:08:53.784Z",
       "error": null
     },
     "huggingface:nvidia": {
-      "lastAttempt": "2026-11-24T10:06:52.578Z",
-      "lastSuccess": "2026-11-24T10:06:52.578Z",
+      "lastAttempt": "2026-11-24T10:08:53.829Z",
+      "lastSuccess": "2026-11-24T10:08:53.829Z",
       "error": null
     },
     "huggingface:openai": {
-      "lastAttempt": "2026-11-24T10:06:52.663Z",
-      "lastSuccess": "2026-11-24T10:06:52.663Z",
+      "lastAttempt": "2026-11-24T10:08:53.872Z",
+      "lastSuccess": "2026-11-24T10:08:53.872Z",
       "error": null
     },
     "huggingface:allenai": {
-      "lastAttempt": "2026-11-24T10:06:52.737Z",
-      "lastSuccess": "2026-11-24T10:06:52.737Z",
+      "lastAttempt": "2026-11-24T10:08:53.906Z",
+      "lastSuccess": "2026-11-24T10:08:53.906Z",
       "error": null
     },
     "huggingface:MiniMaxAI": {
-      "lastAttempt": "2026-11-24T10:06:52.820Z",
-      "lastSuccess": "2026-11-24T10:06:52.820Z",
+      "lastAttempt": "2026-11-24T10:08:53.947Z",
+      "lastSuccess": "2026-11-24T10:08:53.947Z",
       "error": null
     },
     "huggingface:moonshotai": {
-      "lastAttempt": "2026-11-24T10:06:52.891Z",
-      "lastSuccess": "2026-11-24T10:06:52.891Z",
+      "lastAttempt": "2026-11-24T10:08:53.977Z",
+      "lastSuccess": "2026-11-24T10:08:53.977Z",
       "error": null
     },
     "huggingface:zai-org": {
-      "lastAttempt": "2026-11-24T10:06:52.963Z",
-      "lastSuccess": "2026-11-24T10:06:52.963Z",
+      "lastAttempt": "2026-11-24T10:08:54.022Z",
+      "lastSuccess": "2026-11-24T10:08:54.022Z",
       "error": null
     },
     "huggingface:tencent": {
-      "lastAttempt": "2026-11-24T10:06:53.045Z",
-      "lastSuccess": "2026-11-24T10:06:53.045Z",
+      "lastAttempt": "2026-11-24T10:08:54.064Z",
+      "lastSuccess": "2026-11-24T10:08:54.064Z",
       "error": null
     }
   },
