@@ -1,78 +1,148 @@
 {
-  "generatedAt": "2026-11-26T01:47:13.659Z",
+  "generatedAt": "2026-11-26T10:53:53.438Z",
   "sources": {
     "models.dev": {
-      "lastAttempt": "2026-11-26T01:47:12.369Z",
-      "lastSuccess": "2026-11-26T01:47:12.369Z",
+      "lastAttempt": "2026-11-26T10:53:51.727Z",
+      "lastSuccess": "2026-11-26T10:53:51.727Z",
       "error": null
     },
     "huggingface:deepseek-ai": {
-      "lastAttempt": "2026-11-26T01:47:12.722Z",
-      "lastSuccess": "2026-11-26T01:47:12.722Z",
+      "lastAttempt": "2026-11-26T10:53:52.126Z",
+      "lastSuccess": "2026-11-26T10:53:52.126Z",
       "error": null
     },
     "huggingface:Qwen": {
-      "lastAttempt": "2026-11-26T01:47:12.871Z",
-      "lastSuccess": "2026-11-26T01:47:12.871Z",
+      "lastAttempt": "2026-11-26T10:53:52.246Z",
+      "lastSuccess": "2026-11-26T10:53:52.246Z",
       "error": null
     },
     "huggingface:meta-llama": {
-      "lastAttempt": "2026-11-26T01:47:12.939Z",
-      "lastSuccess": "2026-11-26T01:47:12.939Z",
+      "lastAttempt": "2026-11-26T10:53:52.342Z",
+      "lastSuccess": "2026-11-26T10:53:52.342Z",
       "error": null
     },
     "huggingface:mistralai": {
-      "lastAttempt": "2026-11-26T01:47:13.003Z",
-      "lastSuccess": "2026-11-26T01:47:13.003Z",
+      "lastAttempt": "2026-11-26T10:53:52.474Z",
+      "lastSuccess": "2026-11-26T10:53:52.474Z",
       "error": null
     },
     "huggingface:google": {
-      "lastAttempt": "2026-11-26T01:47:13.067Z",
-      "lastSuccess": "2026-11-26T01:47:13.067Z",
+      "lastAttempt": "2026-11-26T10:53:52.572Z",
+      "lastSuccess": "2026-11-26T10:53:52.572Z",
       "error": null
     },
     "huggingface:microsoft": {
-      "lastAttempt": "2026-11-26T01:47:13.131Z",
-      "lastSuccess": "2026-11-26T01:47:13.131Z",
+      "lastAttempt": "2026-11-26T10:53:52.671Z",
+      "lastSuccess": "2026-11-26T10:53:52.671Z",
       "error": null
     },
     "huggingface:nvidia": {
-      "lastAttempt": "2026-11-26T01:47:13.201Z",
-      "lastSuccess": "2026-11-26T01:47:13.201Z",
+      "lastAttempt": "2026-11-26T10:53:52.770Z",
+      "lastSuccess": "2026-11-26T10:53:52.770Z",
       "error": null
     },
     "huggingface:openai": {
-      "lastAttempt": "2026-11-26T01:47:13.273Z",
-      "lastSuccess": "2026-11-26T01:47:13.273Z",
+      "lastAttempt": "2026-11-26T10:53:52.874Z",
+      "lastSuccess": "2026-11-26T10:53:52.874Z",
       "error": null
     },
     "huggingface:allenai": {
-      "lastAttempt": "2026-11-26T01:47:13.332Z",
-      "lastSuccess": "2026-11-26T01:47:13.332Z",
+      "lastAttempt": "2026-11-26T10:53:52.965Z",
+      "lastSuccess": "2026-11-26T10:53:52.965Z",
       "error": null
     },
     "huggingface:MiniMaxAI": {
-      "lastAttempt": "2026-11-26T01:47:13.401Z",
-      "lastSuccess": "2026-11-26T01:47:13.401Z",
+      "lastAttempt": "2026-11-26T10:53:53.062Z",
+      "lastSuccess": "2026-11-26T10:53:53.062Z",
       "error": null
     },
     "huggingface:moonshotai": {
-      "lastAttempt": "2026-11-26T01:47:13.458Z",
-      "lastSuccess": "2026-11-26T01:47:13.458Z",
+      "lastAttempt": "2026-11-26T10:53:53.152Z",
+      "lastSuccess": "2026-11-26T10:53:53.152Z",
       "error": null
     },
     "huggingface:zai-org": {
-      "lastAttempt": "2026-11-26T01:47:13.518Z",
-      "lastSuccess": "2026-11-26T01:47:13.518Z",
+      "lastAttempt": "2026-11-26T10:53:53.239Z",
+      "lastSuccess": "2026-11-26T10:53:53.239Z",
       "error": null
     },
     "huggingface:tencent": {
-      "lastAttempt": "2026-11-26T01:47:13.588Z",
-      "lastSuccess": "2026-11-26T01:47:13.588Z",
+      "lastAttempt": "2026-11-26T10:53:53.338Z",
+      "lastSuccess": "2026-11-26T10:53:53.338Z",
       "error": null
     }
   },
   "events": [
+    {
+      "id": "cloudflare-ai-gateway/moonshotai/kimi-k3.1-pro-highspeed",
+      "name": "Kimi K3.1 Pro Highspeed",
+      "modelId": "moonshotai/kimi-k3.1-pro-highspeed",
+      "provider": "Cloudflare AI Gateway",
+      "url": "https://models.dev/?search=moonshotai%2Fkimi-k3.1-pro-highspeed",
+      "publishedAt": "2026-10-23",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-26T10:53:51.727Z",
+      "kind": "new",
+      "eventId": "models.dev:cloudflare-ai-gateway/moonshotai/kimi-k3.1-pro-highspeed:af100ae784800c740fc2e186928c286d592ab8a6f5af9ac00621bcedf485bd11"
+    },
+    {
+      "id": "cloudflare-ai-gateway/particle/particle-1",
+      "name": "Particle-1",
+      "modelId": "particle/particle-1",
+      "provider": "Cloudflare AI Gateway",
+      "url": "https://models.dev/?search=particle%2Fparticle-1",
+      "publishedAt": "2026-10-28",
+      "category": "catalog",
+      "openWeights": false,
+      "source": "models.dev",
+      "observedAt": "2026-11-26T10:53:51.727Z",
+      "kind": "new",
+      "eventId": "models.dev:cloudflare-ai-gateway/particle/particle-1:324afc408c0997ff90e2651256382224ae2b93784b96f9ec87d3a9436fdaf7e9"
+    },
+    {
+      "id": "ambient/google/gemma-4-26b-a4b-it",
+      "name": "Gemma 4 26B A4B IT",
+      "modelId": "google/gemma-4-26b-a4b-it",
+      "provider": "Ambient",
+      "url": "https://models.dev/?search=google%2Fgemma-4-26b-a4b-it",
+      "publishedAt": "2026-04-02",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-26T10:53:51.727Z",
+      "kind": "new",
+      "eventId": "models.dev:ambient/google/gemma-4-26b-a4b-it:f999e4cebaa6a3766d1ebe77371a3aeaa99df35eb4f0f30022509cbe5d08503b"
+    },
+    {
+      "id": "fireworks-ai/accounts/fireworks/routers/glm-5p3-flash-flex",
+      "name": "GLM 5.3 Flash Flex",
+      "modelId": "accounts/fireworks/routers/glm-5p3-flash-flex",
+      "provider": "Fireworks AI",
+      "url": "https://models.dev/?search=accounts%2Ffireworks%2Frouters%2Fglm-5p3-flash-flex",
+      "publishedAt": "2026-08-26",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-26T10:53:51.727Z",
+      "kind": "new",
+      "eventId": "models.dev:fireworks-ai/accounts/fireworks/routers/glm-5p3-flash-flex:f0f0cb2e0cb9b5fba1ae3669a45a3902426e96e448b6997dde30d0c8429aaafb"
+    },
+    {
+      "id": "fireworks-ai/accounts/fireworks/routers/glm-5p3-flex",
+      "name": "GLM 5.3 Flex",
+      "modelId": "accounts/fireworks/routers/glm-5p3-flex",
+      "provider": "Fireworks AI",
+      "url": "https://models.dev/?search=accounts%2Ffireworks%2Frouters%2Fglm-5p3-flex",
+      "publishedAt": "2026-08-14",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-26T10:53:51.727Z",
+      "kind": "new",
+      "eventId": "models.dev:fireworks-ai/accounts/fireworks/routers/glm-5p3-flex:21806ac04d2fe62c2c268053c116cfeb09bbc5fa194be7f1d1cab2a91fe08e48"
+    },
     {
       "id": "nvidia/Nemotron-3.5-Rerank-1B-BF16",
       "name": "Nemotron-3.5-Rerank-1B-BF16",
@@ -14002,76 +14072,6 @@
       "observedAt": "2026-11-24T10:06:52.578Z",
       "kind": "listing",
       "eventId": "huggingface:nvidia:nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-FP8:472e8ac41dcf51ff230fe9d451e1017dd51fe34c3345aa1c82d01f3250a48b52"
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4-LiLiCorr",
-      "name": "NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4-LiLiCorr",
-      "modelId": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4-LiLiCorr",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4-LiLiCorr",
-      "publishedAt": "2026-10-11T20:20:59.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4-LiLiCorr:e33589dce6cf0be0107ee1fa9af398fb1995eafe789616b0226b3e44f9860339"
-    },
-    {
-      "id": "nvidia/cosmos3-nano-libero10-sdg-export-S5_2",
-      "name": "cosmos3-nano-libero10-sdg-export-S5_2",
-      "modelId": "nvidia/cosmos3-nano-libero10-sdg-export-S5_2",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-S5_2",
-      "publishedAt": "2026-10-10T18:54:08.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/cosmos3-nano-libero10-sdg-export-S5_2:ff804da4e633567d2e5ef1c9d94fa0896b1f8552b732a81a696098dfff5fe7b0"
-    },
-    {
-      "id": "nvidia/cosmos3-nano-libero10-sdg-export-S5_all",
-      "name": "cosmos3-nano-libero10-sdg-export-S5_all",
-      "modelId": "nvidia/cosmos3-nano-libero10-sdg-export-S5_all",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-S5_all",
-      "publishedAt": "2026-10-10T18:53:19.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/cosmos3-nano-libero10-sdg-export-S5_all:0d8a7bc03eec76cc9d7830e09f5df337ec107c7411e1322708d917b89c2f4ff6"
-    },
-    {
-      "id": "nvidia/Qwen-Image-NVFP4",
-      "name": "Qwen-Image-NVFP4",
-      "modelId": "nvidia/Qwen-Image-NVFP4",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/Qwen-Image-NVFP4",
-      "publishedAt": "2026-10-09T23:37:43.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/Qwen-Image-NVFP4:cb15a7412ef0ec3e4f107f907c933f62ed395e42f2c62fc88f3c439a6191c8ab"
-    },
-    {
-      "id": "nvidia/cosmos3-nano-libero10-sdg-export-D5",
-      "name": "cosmos3-nano-libero10-sdg-export-D5",
-      "modelId": "nvidia/cosmos3-nano-libero10-sdg-export-D5",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-D5",
-      "publishedAt": "2026-10-09T21:31:12.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/cosmos3-nano-libero10-sdg-export-D5:8b122c3d0e54aef7720abac7326dbe1d397d29182f7b9dd971d7a523e617fc3a"
     }
   ]
 }
