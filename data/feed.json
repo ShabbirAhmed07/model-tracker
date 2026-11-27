@@ -1,78 +1,148 @@
 {
-  "generatedAt": "2026-11-27T04:16:17.586Z",
+  "generatedAt": "2026-11-27T13:57:27.953Z",
   "sources": {
     "models.dev": {
-      "lastAttempt": "2026-11-27T04:16:15.819Z",
-      "lastSuccess": "2026-11-27T04:16:15.819Z",
+      "lastAttempt": "2026-11-27T13:57:26.545Z",
+      "lastSuccess": "2026-11-27T13:57:26.545Z",
       "error": null
     },
     "huggingface:deepseek-ai": {
-      "lastAttempt": "2026-11-27T04:16:17.151Z",
-      "lastSuccess": "2026-11-27T04:16:17.151Z",
+      "lastAttempt": "2026-11-27T13:57:27.017Z",
+      "lastSuccess": "2026-11-27T13:57:27.017Z",
       "error": null
     },
     "huggingface:Qwen": {
-      "lastAttempt": "2026-11-27T04:16:17.241Z",
-      "lastSuccess": "2026-11-27T04:16:17.241Z",
+      "lastAttempt": "2026-11-27T13:57:27.159Z",
+      "lastSuccess": "2026-11-27T13:57:27.159Z",
       "error": null
     },
     "huggingface:meta-llama": {
-      "lastAttempt": "2026-11-27T04:16:17.273Z",
-      "lastSuccess": "2026-11-27T04:16:17.273Z",
+      "lastAttempt": "2026-11-27T13:57:27.230Z",
+      "lastSuccess": "2026-11-27T13:57:27.230Z",
       "error": null
     },
     "huggingface:mistralai": {
-      "lastAttempt": "2026-11-27T04:16:17.299Z",
-      "lastSuccess": "2026-11-27T04:16:17.299Z",
+      "lastAttempt": "2026-11-27T13:57:27.292Z",
+      "lastSuccess": "2026-11-27T13:57:27.292Z",
       "error": null
     },
     "huggingface:google": {
-      "lastAttempt": "2026-11-27T04:16:17.328Z",
-      "lastSuccess": "2026-11-27T04:16:17.328Z",
+      "lastAttempt": "2026-11-27T13:57:27.358Z",
+      "lastSuccess": "2026-11-27T13:57:27.358Z",
       "error": null
     },
     "huggingface:microsoft": {
-      "lastAttempt": "2026-11-27T04:16:17.358Z",
-      "lastSuccess": "2026-11-27T04:16:17.358Z",
+      "lastAttempt": "2026-11-27T13:57:27.436Z",
+      "lastSuccess": "2026-11-27T13:57:27.436Z",
       "error": null
     },
     "huggingface:nvidia": {
-      "lastAttempt": "2026-11-27T04:16:17.390Z",
-      "lastSuccess": "2026-11-27T04:16:17.390Z",
+      "lastAttempt": "2026-11-27T13:57:27.509Z",
+      "lastSuccess": "2026-11-27T13:57:27.509Z",
       "error": null
     },
     "huggingface:openai": {
-      "lastAttempt": "2026-11-27T04:16:17.423Z",
-      "lastSuccess": "2026-11-27T04:16:17.423Z",
+      "lastAttempt": "2026-11-27T13:57:27.580Z",
+      "lastSuccess": "2026-11-27T13:57:27.580Z",
       "error": null
     },
     "huggingface:allenai": {
-      "lastAttempt": "2026-11-27T04:16:17.448Z",
-      "lastSuccess": "2026-11-27T04:16:17.448Z",
+      "lastAttempt": "2026-11-27T13:57:27.640Z",
+      "lastSuccess": "2026-11-27T13:57:27.640Z",
       "error": null
     },
     "huggingface:MiniMaxAI": {
-      "lastAttempt": "2026-11-27T04:16:17.481Z",
-      "lastSuccess": "2026-11-27T04:16:17.481Z",
+      "lastAttempt": "2026-11-27T13:57:27.709Z",
+      "lastSuccess": "2026-11-27T13:57:27.709Z",
       "error": null
     },
     "huggingface:moonshotai": {
-      "lastAttempt": "2026-11-27T04:16:17.503Z",
-      "lastSuccess": "2026-11-27T04:16:17.503Z",
+      "lastAttempt": "2026-11-27T13:57:27.765Z",
+      "lastSuccess": "2026-11-27T13:57:27.765Z",
       "error": null
     },
     "huggingface:zai-org": {
-      "lastAttempt": "2026-11-27T04:16:17.526Z",
-      "lastSuccess": "2026-11-27T04:16:17.526Z",
+      "lastAttempt": "2026-11-27T13:57:27.821Z",
+      "lastSuccess": "2026-11-27T13:57:27.821Z",
       "error": null
     },
     "huggingface:tencent": {
-      "lastAttempt": "2026-11-27T04:16:17.556Z",
-      "lastSuccess": "2026-11-27T04:16:17.556Z",
+      "lastAttempt": "2026-11-27T13:57:27.886Z",
+      "lastSuccess": "2026-11-27T13:57:27.886Z",
       "error": null
     }
   },
   "events": [
+    {
+      "id": "tencent/Hy-Embodied-Apexio-1.0",
+      "name": "Hy-Embodied-Apexio-1.0",
+      "modelId": "tencent/Hy-Embodied-Apexio-1.0",
+      "provider": "tencent",
+      "url": "https://huggingface.co/tencent/Hy-Embodied-Apexio-1.0",
+      "publishedAt": "2026-11-27T05:46:43.000Z",
+      "category": "huggingface",
+      "openWeights": false,
+      "source": "huggingface:tencent",
+      "observedAt": "2026-11-27T13:57:27.886Z",
+      "kind": "new",
+      "eventId": "huggingface:tencent:tencent/Hy-Embodied-Apexio-1.0:55d7cd105c8ad67945d5e575be9a2c416c52870c51021da847cd6ce6624e4bbe"
+    },
+    {
+      "id": "openrouter/inclusionai/ling-3.2-flash",
+      "name": "Ling 3.2 Flash",
+      "modelId": "inclusionai/ling-3.2-flash",
+      "provider": "OpenRouter",
+      "url": "https://models.dev/?search=inclusionai%2Fling-3.2-flash",
+      "publishedAt": "2026-11-05",
+      "category": "catalog",
+      "openWeights": false,
+      "source": "models.dev",
+      "observedAt": "2026-11-27T13:57:26.545Z",
+      "kind": "new",
+      "eventId": "models.dev:openrouter/inclusionai/ling-3.2-flash:1675ee75a116c462aaf867baa2cd6b0b3be47c042c54bafb244e6daf122a41cb"
+    },
+    {
+      "id": "llmgateway-providers/reka-ai/kimi-k3.1-pro",
+      "name": "Kimi K3.1 Pro (reka-ai)",
+      "modelId": "reka-ai/kimi-k3.1-pro",
+      "provider": "LLM Gateway",
+      "url": "https://models.dev/?search=reka-ai%2Fkimi-k3.1-pro",
+      "publishedAt": "2026-10-23",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-27T13:57:26.545Z",
+      "kind": "new",
+      "eventId": "models.dev:llmgateway-providers/reka-ai/kimi-k3.1-pro:148fade669b31aafa35f3fc6c5a7acd74ad8c5ecc664a76f2e72b9ff3235ff2e"
+    },
+    {
+      "id": "deepinfra/nvidia/NVIDIA-Nemotron-3.5-Super-VL",
+      "name": "Nemotron 3.5 Super VL 120B A12B",
+      "modelId": "nvidia/NVIDIA-Nemotron-3.5-Super-VL",
+      "provider": "Deep Infra",
+      "url": "https://models.dev/?search=nvidia%2FNVIDIA-Nemotron-3.5-Super-VL",
+      "publishedAt": "2026-10-15",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-27T13:57:26.545Z",
+      "kind": "new",
+      "eventId": "models.dev:deepinfra/nvidia/NVIDIA-Nemotron-3.5-Super-VL:d89ff6884e37f22a46d8b754450840a3dec4c7911b57ad6bd5c05e529e7f8738"
+    },
+    {
+      "id": "nano-gpt/inclusionai/lingsante-3.1-air-vl",
+      "name": "LingSante 3.1 Air VL",
+      "modelId": "inclusionai/lingsante-3.1-air-vl",
+      "provider": "NanoGPT",
+      "url": "https://models.dev/?search=inclusionai%2Flingsante-3.1-air-vl",
+      "publishedAt": "2026-11-19",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-27T13:57:26.545Z",
+      "kind": "new",
+      "eventId": "models.dev:nano-gpt/inclusionai/lingsante-3.1-air-vl:a5e2950c02fe4e8f550cd5374e1615409aa819cbfcd9b3c4b462a4feaf53a23b"
+    },
     {
       "id": "deepinfra/inclusionAI/LingSante-3.1-air-VL",
       "name": "LingSante 3.1 Air VL",
@@ -14002,76 +14072,6 @@
       "observedAt": "2026-11-24T10:06:52.578Z",
       "kind": "listing",
       "eventId": "huggingface:nvidia:nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft:db93b6674f4929ce3adf31c607430e368cb5e53dfe3fa74db4b126db57ea2e7a"
-    },
-    {
-      "id": "nvidia/Kimi-K3.1-Pro-NVFP4",
-      "name": "Kimi-K3.1-Pro-NVFP4",
-      "modelId": "nvidia/Kimi-K3.1-Pro-NVFP4",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
-      "publishedAt": "2026-11-11T00:57:46.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/Kimi-K3.1-Pro-NVFP4:13645e1826bd50cd482463ba852a7593195e021fc88c8a3637b0bfa9203c078d"
-    },
-    {
-      "id": "nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
-      "name": "Nemotron-Labs-Sigma-distill-spec-3B",
-      "modelId": "nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
-      "publishedAt": "2026-11-09T21:55:08.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/Nemotron-Labs-Sigma-distill-spec-3B:d838a1e272ab7c2e29af80fb83ace9c345bf66361b74058aa430f3d9e6609fd7"
-    },
-    {
-      "id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16",
-      "name": "Nemotron-Labs-Sigma-distill-8B-nfe16",
-      "modelId": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16",
-      "publishedAt": "2026-11-09T06:36:32.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16:14aee0f38d6fa1d9182d1a9cd51af50cc42c47d9be25cb3a78e5771c81095ba1"
-    },
-    {
-      "id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8",
-      "name": "Nemotron-Labs-Sigma-distill-8B-nfe8",
-      "modelId": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8",
-      "publishedAt": "2026-11-09T05:56:33.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8:784907492f2259b1c797795a2dc7a5adaf9affe0989c03487294c21edd00d00a"
-    },
-    {
-      "id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "name": "Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "modelId": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "provider": "nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "publishedAt": "2026-11-09T05:47:59.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:nvidia",
-      "observedAt": "2026-11-24T10:06:52.578Z",
-      "kind": "listing",
-      "eventId": "huggingface:nvidia:nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4:82b0a7e6a7e7ecceb244d90a9dc24276ec8acf483605965d4b46d4b9b3284d89"
     }
   ]
 }
