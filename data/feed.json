@@ -1,78 +1,162 @@
 {
-  "generatedAt": "2026-11-27T22:43:07.176Z",
+  "generatedAt": "2026-11-28T07:48:26.186Z",
   "sources": {
     "models.dev": {
-      "lastAttempt": "2026-11-27T22:43:05.690Z",
-      "lastSuccess": "2026-11-27T22:43:05.690Z",
+      "lastAttempt": "2026-11-28T07:48:24.842Z",
+      "lastSuccess": "2026-11-28T07:48:24.842Z",
       "error": null
     },
     "huggingface:deepseek-ai": {
-      "lastAttempt": "2026-11-27T22:43:06.377Z",
-      "lastSuccess": "2026-11-27T22:43:06.377Z",
+      "lastAttempt": "2026-11-28T07:48:25.374Z",
+      "lastSuccess": "2026-11-28T07:48:25.374Z",
       "error": null
     },
     "huggingface:Qwen": {
-      "lastAttempt": "2026-11-27T22:43:06.516Z",
-      "lastSuccess": "2026-11-27T22:43:06.516Z",
+      "lastAttempt": "2026-11-28T07:48:25.510Z",
+      "lastSuccess": "2026-11-28T07:48:25.510Z",
       "error": null
     },
     "huggingface:meta-llama": {
-      "lastAttempt": "2026-11-27T22:43:06.575Z",
-      "lastSuccess": "2026-11-27T22:43:06.575Z",
+      "lastAttempt": "2026-11-28T07:48:25.572Z",
+      "lastSuccess": "2026-11-28T07:48:25.572Z",
       "error": null
     },
     "huggingface:mistralai": {
-      "lastAttempt": "2026-11-27T22:43:06.628Z",
-      "lastSuccess": "2026-11-27T22:43:06.628Z",
+      "lastAttempt": "2026-11-28T07:48:25.627Z",
+      "lastSuccess": "2026-11-28T07:48:25.627Z",
       "error": null
     },
     "huggingface:google": {
-      "lastAttempt": "2026-11-27T22:43:06.684Z",
-      "lastSuccess": "2026-11-27T22:43:06.684Z",
+      "lastAttempt": "2026-11-28T07:48:25.686Z",
+      "lastSuccess": "2026-11-28T07:48:25.686Z",
       "error": null
     },
     "huggingface:microsoft": {
-      "lastAttempt": "2026-11-27T22:43:06.740Z",
-      "lastSuccess": "2026-11-27T22:43:06.740Z",
+      "lastAttempt": "2026-11-28T07:48:25.750Z",
+      "lastSuccess": "2026-11-28T07:48:25.750Z",
       "error": null
     },
     "huggingface:nvidia": {
-      "lastAttempt": "2026-11-27T22:43:06.800Z",
-      "lastSuccess": "2026-11-27T22:43:06.800Z",
+      "lastAttempt": "2026-11-28T07:48:25.808Z",
+      "lastSuccess": "2026-11-28T07:48:25.808Z",
       "error": null
     },
     "huggingface:openai": {
-      "lastAttempt": "2026-11-27T22:43:06.861Z",
-      "lastSuccess": "2026-11-27T22:43:06.861Z",
+      "lastAttempt": "2026-11-28T07:48:25.866Z",
+      "lastSuccess": "2026-11-28T07:48:25.866Z",
       "error": null
     },
     "huggingface:allenai": {
-      "lastAttempt": "2026-11-27T22:43:06.912Z",
-      "lastSuccess": "2026-11-27T22:43:06.912Z",
+      "lastAttempt": "2026-11-28T07:48:25.918Z",
+      "lastSuccess": "2026-11-28T07:48:25.918Z",
       "error": null
     },
     "huggingface:MiniMaxAI": {
-      "lastAttempt": "2026-11-27T22:43:06.974Z",
-      "lastSuccess": "2026-11-27T22:43:06.974Z",
+      "lastAttempt": "2026-11-28T07:48:25.975Z",
+      "lastSuccess": "2026-11-28T07:48:25.975Z",
       "error": null
     },
     "huggingface:moonshotai": {
-      "lastAttempt": "2026-11-27T22:43:07.024Z",
-      "lastSuccess": "2026-11-27T22:43:07.024Z",
+      "lastAttempt": "2026-11-28T07:48:26.026Z",
+      "lastSuccess": "2026-11-28T07:48:26.026Z",
       "error": null
     },
     "huggingface:zai-org": {
-      "lastAttempt": "2026-11-27T22:43:07.067Z",
-      "lastSuccess": "2026-11-27T22:43:07.067Z",
+      "lastAttempt": "2026-11-28T07:48:26.072Z",
+      "lastSuccess": "2026-11-28T07:48:26.072Z",
       "error": null
     },
     "huggingface:tencent": {
-      "lastAttempt": "2026-11-27T22:43:07.120Z",
-      "lastSuccess": "2026-11-27T22:43:07.120Z",
+      "lastAttempt": "2026-11-28T07:48:26.129Z",
+      "lastSuccess": "2026-11-28T07:48:26.129Z",
       "error": null
     }
   },
   "events": [
+    {
+      "id": "venice/nvidia-nemotron-3-5-lightning-30b-a3b",
+      "name": "NVIDIA Nemotron 3.5 Lightning 30B",
+      "modelId": "nvidia-nemotron-3-5-lightning-30b-a3b",
+      "provider": "Venice AI",
+      "url": "https://models.dev/?search=nvidia-nemotron-3-5-lightning-30b-a3b",
+      "publishedAt": "2026-11-28",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-28T07:48:24.842Z",
+      "kind": "new",
+      "eventId": "models.dev:venice/nvidia-nemotron-3-5-lightning-30b-a3b:dfa836e93a6ac3399e02e8409e9ac395834bed5186dd5d6613efeb4c45cda685"
+    },
+    {
+      "id": "llmgateway/deepseek-v4-pro-0813",
+      "name": "deepseek-v4-pro-0813",
+      "modelId": "deepseek-v4-pro-0813",
+      "provider": "DevPass (LLM Gateway)",
+      "url": "https://models.dev/?search=deepseek-v4-pro-0813",
+      "publishedAt": "2026-08-13",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-28T07:48:24.842Z",
+      "kind": "new",
+      "eventId": "models.dev:llmgateway/deepseek-v4-pro-0813:5289bcf50bbfc0ff3d43c95c5dc8117570092ecf41c4a4c78f3dc53bc5a27df9"
+    },
+    {
+      "id": "prime/google/gemini-4-hydrogen",
+      "name": "Gemini 4 Hydrogen",
+      "modelId": "google/gemini-4-hydrogen",
+      "provider": "Prime Inference",
+      "url": "https://models.dev/?search=google%2Fgemini-4-hydrogen",
+      "publishedAt": "2026-11-12",
+      "category": "catalog",
+      "openWeights": false,
+      "source": "models.dev",
+      "observedAt": "2026-11-28T07:48:24.842Z",
+      "kind": "new",
+      "eventId": "models.dev:prime/google/gemini-4-hydrogen:c4222362f0f3c3d7dd2a1bbdf0f3b7affc282a63b3669d15699b231b53414063"
+    },
+    {
+      "id": "llmgateway-providers/canopywave/deepseek-v4-pro-0813",
+      "name": "deepseek-v4-pro-0813 (CanopyWave)",
+      "modelId": "canopywave/deepseek-v4-pro-0813",
+      "provider": "LLM Gateway",
+      "url": "https://models.dev/?search=canopywave%2Fdeepseek-v4-pro-0813",
+      "publishedAt": "2026-08-13",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-28T07:48:24.842Z",
+      "kind": "new",
+      "eventId": "models.dev:llmgateway-providers/canopywave/deepseek-v4-pro-0813:9464032540d6307aae580182c0f50be5bdc061ecd21e90d91731d74acba44576"
+    },
+    {
+      "id": "llmgateway-providers/canopywave/kimi-k2.7-code",
+      "name": "Kimi K2.7 Code (CanopyWave)",
+      "modelId": "canopywave/kimi-k2.7-code",
+      "provider": "LLM Gateway",
+      "url": "https://models.dev/?search=canopywave%2Fkimi-k2.7-code",
+      "publishedAt": "2026-06-12",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-28T07:48:24.842Z",
+      "kind": "new",
+      "eventId": "models.dev:llmgateway-providers/canopywave/kimi-k2.7-code:1a255fbaa65db4ddf8d20ffbd8f2bebfa8720f80a6b8c33e29f13d0e0609ad32"
+    },
+    {
+      "id": "llmgateway-providers/reka-ai/glm-5.3",
+      "name": "GLM-5.3 (reka-ai)",
+      "modelId": "reka-ai/glm-5.3",
+      "provider": "LLM Gateway",
+      "url": "https://models.dev/?search=reka-ai%2Fglm-5.3",
+      "publishedAt": "2026-08-14",
+      "category": "catalog",
+      "openWeights": true,
+      "source": "models.dev",
+      "observedAt": "2026-11-28T07:48:24.842Z",
+      "kind": "new",
+      "eventId": "models.dev:llmgateway-providers/reka-ai/glm-5.3:e28cbacae37f1bbf23152acf5bb8bde9356032fd2e4757eda8eb3b10b712409f"
+    },
     {
       "id": "nano-gpt/inclusionai/ling-3.2-flash",
       "name": "Ling 3.2 Flash",
@@ -13988,90 +14072,6 @@
       "observedAt": "2026-11-24T10:06:52.663Z",
       "kind": "listing",
       "eventId": "huggingface:openai:openai/diffusers-cd_imagenet64_lpips:9afdde42f9b282fb07e1f165556fe218086a5670ffde1fa7ffb13142edfc3205"
-    },
-    {
-      "id": "openai/diffusers-ct_bedroom256",
-      "name": "diffusers-ct_bedroom256",
-      "modelId": "openai/diffusers-ct_bedroom256",
-      "provider": "openai",
-      "url": "https://huggingface.co/openai/diffusers-ct_bedroom256",
-      "publishedAt": "2023-07-05T13:28:42.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:openai",
-      "observedAt": "2026-11-24T10:06:52.663Z",
-      "kind": "listing",
-      "eventId": "huggingface:openai:openai/diffusers-ct_bedroom256:9d78ca1202ea6318897068bd400e72dac39faa5e6cef31be23b1ecd137eee957"
-    },
-    {
-      "id": "openai/diffusers-cd_cat256_l2",
-      "name": "diffusers-cd_cat256_l2",
-      "modelId": "openai/diffusers-cd_cat256_l2",
-      "provider": "openai",
-      "url": "https://huggingface.co/openai/diffusers-cd_cat256_l2",
-      "publishedAt": "2023-07-05T13:28:27.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:openai",
-      "observedAt": "2026-11-24T10:06:52.663Z",
-      "kind": "listing",
-      "eventId": "huggingface:openai:openai/diffusers-cd_cat256_l2:62f857a5c05d605bae1f51e5e486ae15c3dceb92255ba2262a59541b0b431d38"
-    },
-    {
-      "id": "openai/diffusers-cd_bedroom256_lpips",
-      "name": "diffusers-cd_bedroom256_lpips",
-      "modelId": "openai/diffusers-cd_bedroom256_lpips",
-      "provider": "openai",
-      "url": "https://huggingface.co/openai/diffusers-cd_bedroom256_lpips",
-      "publishedAt": "2023-07-05T13:28:02.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:openai",
-      "observedAt": "2026-11-24T10:06:52.663Z",
-      "kind": "listing",
-      "eventId": "huggingface:openai:openai/diffusers-cd_bedroom256_lpips:41f2b19e768f0ea7f70e8fc256f5788f2b9c31242a397d10e39720629aa54693"
-    },
-    {
-      "id": "openai/diffusers-cd_cat256_lpips",
-      "name": "diffusers-cd_cat256_lpips",
-      "modelId": "openai/diffusers-cd_cat256_lpips",
-      "provider": "openai",
-      "url": "https://huggingface.co/openai/diffusers-cd_cat256_lpips",
-      "publishedAt": "2023-07-05T13:27:50.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:openai",
-      "observedAt": "2026-11-24T10:06:52.663Z",
-      "kind": "listing",
-      "eventId": "huggingface:openai:openai/diffusers-cd_cat256_lpips:b26d962f0b027c8bcb96e98665ab58b5bb3f68129f6f49ef87e7218e994a9415"
-    },
-    {
-      "id": "openai/diffusers-ct_cat256",
-      "name": "diffusers-ct_cat256",
-      "modelId": "openai/diffusers-ct_cat256",
-      "provider": "openai",
-      "url": "https://huggingface.co/openai/diffusers-ct_cat256",
-      "publishedAt": "2023-07-05T13:27:29.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:openai",
-      "observedAt": "2026-11-24T10:06:52.663Z",
-      "kind": "listing",
-      "eventId": "huggingface:openai:openai/diffusers-ct_cat256:470f2332f013998ab98d4c62ba5563fc824397db90be9decdf49886fcf34d7b7"
-    },
-    {
-      "id": "openai/shap-e-img2img",
-      "name": "shap-e-img2img",
-      "modelId": "openai/shap-e-img2img",
-      "provider": "openai",
-      "url": "https://huggingface.co/openai/shap-e-img2img",
-      "publishedAt": "2023-07-04T13:25:57.000Z",
-      "category": "huggingface",
-      "openWeights": false,
-      "source": "huggingface:openai",
-      "observedAt": "2026-11-24T10:06:52.663Z",
-      "kind": "listing",
-      "eventId": "huggingface:openai:openai/shap-e-img2img:67df9f85741b01fce945ec75f59eec76e54c156bc862c9875e4d78a47b4d99ae"
     }
   ]
 }
